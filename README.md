@@ -20,6 +20,7 @@ I'm a passionate developer focused on full-stack web development and AI integrat
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Integration-FF6F61?style=flat&logo=ai&logoColor=white)
 
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,7 +43,6 @@ I'm a passionate developer focused on full-stack web development and AI integrat
   <img src="https://github-profile-trophy.vercel.app/?username=mrhassanali&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
 </div>
 
-<!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrhassanali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
