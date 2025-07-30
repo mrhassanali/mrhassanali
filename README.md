@@ -45,11 +45,13 @@ I'm a passionate developer focused on full-stack web development and AI integrat
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrhassanali&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
+
 
 ## 🚀 Projects
 - [UpAlerts AI](https://ai.upalerts.app/) - AI-powered real-time alerts for tracking trends, news, and updates.
 - [TenderDon.com](https://tenderdon.com/) - A smart platform for discovering and managing business tenders efficiently.
+
+-->
 
 ## 📫 How to reach me
 - Email: contact@hassanali.pk
